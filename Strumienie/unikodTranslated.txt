@@ -1,0 +1,7 @@
+public class Main {
+    public static void main(
+            String[] args) {
+        System.out
+                .println("Niby Hello World, a jednak nie do ko?ca :) Pozdrowienia z javastart.pl");
+    }
+}
